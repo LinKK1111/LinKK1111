@@ -1,16 +1,31 @@
-## Hi there 👋
+# Привет, я Данил 👋 | Junior SOC Analyst (L1) / Pentester
 
-<!--
-**LinKK1111/LinKK1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент 3-го курса ИБ (ЮФУ, Таганрог). Обучаюсь на специальности «Информационная безопасность в правоохранительной сфере». Работаю с мониторингом и детектированием: поднимаю Elastic SIEM, пишу YARA-правила. Понимаю атаку изнутри благодаря большому опыту в CTF и пентесте.
 
-Here are some ideas to get you started:
+📍 Ищу: позицию L1 SOC Analyst / Pentester / стажировку
+📫 Telegram: @liNK0x32 | ✉️ danilgerasenko637@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⭐ Избранное
+| Проект | Что показывает | Статус |
+|---|---|---|
+| ELK SIEM Homelab | Сбор телеметрии, корреляция, триаж алертов, маппинг на MITRE ATT&CK | В разработке |
+| YARA Detection Rules | Логика детекта и снижение ложных срабатываний | В разработке |
+| Blockchain AML Forensics | Графы транзакций, кластеризация адресов, метрики Precision/Recall | В разработке |
+
+## 🏆 Достижения
+- 🥇 1-е место, TaipanByte CTF *(2026)*
+- **Duckerz:** 108 задач, 20 100 очков, 82-е место ([профиль](https://duckerz.ru/profile/1802))[cite: 1]
+- **TryHackMe:** [LinKK](https://tryhackme.com/p/LinKK)
+- **CyLab Academy:** [LinKK](https://learn.cylabacademy.org/users/LinKK)
+- Курс «Белый хакер» (CyberED); «Специалист по противодействию атакам» (в процессе)
+- **SOC Solar:** [укажи формат и период, например: стажировка / практика, 2026]
+
+## 🛠 Стек
+**Уверенно:** Elastic Stack (ELK, SIEM), YARA, Wireshark, Python, Linux
+**Рабочий уровень:** Burp Suite, Nmap, Ghidra, GDB, Active Directory, SQL, Docker
+**Знаком:** Hashcat, Hydra, SQLMap, Neo4j, Cisco Packet Tracer
+
+## 📂 Все работы
+Разборы CTF, лабораторные и проекты: [portfolio](https://github.com/LinKK1111/portfolio) *(скоро)*[cite: 2]

@@ -16,7 +16,8 @@
 
 ## 🏆 Достижения
 - 🥇 2-е место, TaipanByte CTF *(2026)*
-<img width="1600" height="1000" alt="telegram-cloud-document-2-5233250863711032931" src="https://github.com/user-attachments/assets/6f936a67-f599-4660-9303-0cbd851027fc" />
+<img width="1600" height="1000" alt="telegram-cloud-document-2-5233250863711033481" src="https://github.com/user-attachments/assets/d617dece-b629-43a4-81a4-b414e6ef64a7" />
+
 
 - **Duckerz:** 108 задач, 20 100 очков, 82-е место ([профиль](https://duckerz.ru/profile/1802))[cite: 1]
 - **TryHackMe:** [LinKK](https://tryhackme.com/p/LinKK)

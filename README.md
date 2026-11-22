@@ -23,11 +23,12 @@
 - **TryHackMe:** [LinKK](https://tryhackme.com/p/LinKK)
 - **CyLab Academy:** [LinKK](https://learn.cylabacademy.org/users/LinKK)
 - Курс «Белый хакер» (CyberED); «Специалист по противодействию атакам» (в процессе)
-- **SOC Solar:** [укажи формат и период, например: стажировка / практика, 2026]
+- **SOC Solar:** Стажировка Solar JSOC / осень 2025
+- **Pico CTF** https://learn.cylabacademy.org/users/LinKK
 
 ## 🛠 Стек
-**Уверенно:** Elastic Stack (ELK, SIEM), YARA, Wireshark, Python, Linux
-**Рабочий уровень:** Burp Suite, Nmap, Ghidra, GDB, Active Directory, SQL, Docker
+**Уверенно:** Elastic Stack (ELK, SIEM), YARA, Wireshark, Python, Linux, Burp, nmap ,dirb
+**Рабочий уровень:**  Ghidra, GDB, Active Directory, SQL, Docker
 **Знаком:** Hashcat, Hydra, SQLMap, Neo4j, Cisco Packet Tracer
 
 ## 📂 Все работы

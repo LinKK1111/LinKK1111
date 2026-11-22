@@ -15,7 +15,9 @@
 | Blockchain AML Forensics | Графы транзакций, кластеризация адресов, метрики Precision/Recall | В разработке |
 
 ## 🏆 Достижения
-- 🥇 1-е место, TaipanByte CTF *(2026)*
+- 🥇 2-е место, TaipanByte CTF *(2026)*
+<img width="1600" height="1000" alt="telegram-cloud-document-2-5233250863711032931" src="https://github.com/user-attachments/assets/6f936a67-f599-4660-9303-0cbd851027fc" />
+
 - **Duckerz:** 108 задач, 20 100 очков, 82-е место ([профиль](https://duckerz.ru/profile/1802))[cite: 1]
 - **TryHackMe:** [LinKK](https://tryhackme.com/p/LinKK)
 - **CyLab Academy:** [LinKK](https://learn.cylabacademy.org/users/LinKK)

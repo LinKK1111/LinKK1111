@@ -24,7 +24,7 @@
 - **CyLab Academy:** [LinKK](https://learn.cylabacademy.org/users/LinKK)
 - Курс «Белый хакер» (CyberED); «Специалист по противодействию атакам» (в процессе)
 - **SOC Solar:** Стажировка Solar JSOC / осень 2025
-- **Pico CTF** https://learn.cylabacademy.org/users/LinKK
+- **Pico CTF** [LinKK](https://learn.cylabacademy.org/users/LinKK)
 
 ## 🛠 Стек
 **Уверенно:** Elastic Stack (ELK, SIEM), YARA, Wireshark, Python, Linux, Burp, nmap ,dirb

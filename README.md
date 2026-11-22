@@ -31,4 +31,4 @@
 | Blockchain AML Forensics | Графы транзакций, кластеризация адресов, метрики Precision/Recall |
 
 ## 📂 Все работы
-Разборы CTF, лабораторные и проекты: [portfolio](https://github.com/LinKK1111/portfolio) *(скоро)*
+Разборы CTF, лабораторные и проекты: [portfolio](https://github.com/LinKK1111/portfolio) 
